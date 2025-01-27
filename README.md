@@ -1,1 +1,1 @@
-# cleanArchtechture_base
+Separação de arquivos base para a arquitetura limpa
